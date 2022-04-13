@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "e60ec82fe95bc534",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4e23148c694d1dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "yog22-knowledge/software/git.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ae423004335c671",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9243f741c009a25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b604b10cbac96163",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bdc1a82b8172c3d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.0068016052246
+  },
+  "right": {
+    "id": "6304ed53f167bcc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "92058c2664190f7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "598b6e5787936209",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "yog22-knowledge/software/git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "900f20623be62f5a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.66123962402344
+  },
+  "active": "b4e23148c694d1dd",
+  "lastOpenFiles": [
+    "yog22-knowledge/software/git.md",
+    "math/units/8/8-12-homework.md",
+    "math/units/8/8-12-8-7-ap-classroom.md",
+    "math/units/8/8-12-8-10 revolving around any axis.md",
+    "english/post-colonist/paper.md",
+    "english/post-colonist/paper-notes.md",
+    "math/units/8/8-11-homework.md",
+    "math/units/20.md",
+    "math/units/8/8-2 Distance vs Displacement.md",
+    "Pasted image 20211018140723.png"
+  ]
+}

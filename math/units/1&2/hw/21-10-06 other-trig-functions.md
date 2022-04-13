@@ -1,0 +1,69 @@
+1. $f(\theta) = csc(\theta) + sec(\theta)$
+	$f(\theta) = 1/sin(\theta) + 1/cos(\theta)$
+	$f'(\theta) = \frac{-cos(\theta)}{sin(\theta)^2} + \frac{sin(\theta)}{cos(\theta)^2}$
+	$f'(\theta) = \frac{-cos(\theta)}{sin(\theta)^2} + \frac{sin(\theta)}{cos(\theta)^2}$
+2. $W(t) = \frac{1}{sec(t)} - \frac{2}{3csc(t)}$
+	$W(t) = cos(t) - 1.5sin(t)$
+	$W'(t) = -sin(t) - 1.5cos(t)$
+3. $F(y) = \frac{sin(y)}{tan(y)csc(y)}$
+	$F(y) = \frac{sin(y)}{\frac{sin(y)}{cos(y)} * \frac{1}{sin(y)}}$
+	$F(y) = \frac{sin(y)}{\frac{sin(y)}{cos(y)sin(y)}}$
+	$F(y) = \frac{sin(y)}{\frac{1}{cos(y)}}$
+	$F(y) = sin(y)cos(y)$
+	$F(y) = sin(y)cos(y)$
+	$F'(y) = -sin(y)sin(y) + cos(y)cos(y)$
+	$F'(y) = -sin(y)sin(y) + cos(y)cos(y)$
+	$F'(y) = cos(y)^2 -sin(y)^2$
+4. $P(x) = cos(x)tan(x)$
+	$P(x) = cos(x) * \frac{sin(x)}{cos(x)}$
+	$P(x) = sin(x)$
+	$P'(x) = cos(x)$
+5. $g(a) = cot(a)cot(a)$
+	$g_{one cot at a time}(a) = cot(a)$
+	$g_{one cot at a time}(a) = cos(a)/sin(a)$
+	$g'_{one cot at a time}(a) = (-sin(a)sin(a) - cos(a)cos(a))/sin(a)^2$
+	$g'_{one cot at a time}(a) = -(1/sin(a)^2$
+	$g'_{one cot at a time}(a) = -1/sin(a)^2$
+	$g'(a) = cot(a) * \frac{-1}{sin(a)^2} + \frac{-1}{sin(a)^2} * cot(a)$
+	$g'(a) = 2 * cot(a) * \frac{-1}{sin(a)^2}$
+	$g'(a) = \frac{-2cot(a)}{sin(a)^2}$
+	$g'(a) = \frac{-2\frac{cos(a)}{sin(a)}}{sin(a)^2}$
+	$g'(a) = -2\frac{\frac{cos(a)}{sin(a)}}{sin(a)^2}$
+	$g'(a) = -2\frac{cos(a)}{sin(a)^3}$
+6. $H(x) = cos(x)tan(x) + \frac{sin(x) + tan(x)}{sin(x)}$
+	$H(x) = cos(x)\frac{sin(x)}{cos(x)} + \frac{sin(x) + tan(x)}{sin(x)}$
+	$H(x) = sin(x) + \frac{sin(x) + tan(x)}{sin(x)}$
+	$H(x) = sin(x) + \frac{sin(x) + \frac{sin(x)}{cos(x)}}{sin(x)}$
+	$H(x) = sin(x) + \frac{sin(x)}{sin(x)} + \frac{\frac{sin(x)}{cos(x)}}{sin(x)}$
+	$H(x) = sin(x) + \frac{sin(x)}{sin(x)} + \frac{1}{cos(x)}$
+	$H(x) = sin(x) + 1 + \frac{1}{cos(x)}$
+	$H'(x) = cos(x) + \frac{sin(x)}{cos(x)^2}$
+7. $W = bx^2 - 3$
+	$Z = ax + b$
+	$W(-1) = Z(-1)$
+	$b - 3 = -a + b$
+	$b - 3 = -a + b$
+	$b - 3 - b = -a$
+	$a = 3$
+	
+	$W'(x) = b2x$
+	$Z'(x) = a$
+	$W'(-1) = Z'(-1)$
+	$-b2 = 3$
+	$b = -1.5$
+8. $g(x) = \frac{tan(x) + 4}{sec(x)}$
+	$g(x) = \frac{sin(x)/cos(x) + 4}{1/cos(x)}$
+	$g(x) = \frac{sin(x)/cos(x)}{1/cos(x)} + \frac{4}{1/cos(x)}$
+	$g(x) = sin(x)/cos(x)* cos(x) + 4cos(x)$
+	$g(x) = sin(x) + 4cos(x)$
+	$g'(x) = cos(x) - 4sin(x)$
+	$g'(0.5\pi) = 0 - 4*1$
+	$g'(0.5\pi) = -4$
+	
+	$g(0.5\pi) = 1 + 4*0$
+	$g(0.5\pi) = 1$
+	
+	$y = -4(x-0.5\pi)+1$
+	
+	
+	

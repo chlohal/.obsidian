@@ -1,0 +1,4 @@
+- go away from the poster's thesis
+	- think, like, a film critique thesis
+	- "Although the film *Good Will Hunting* portrays Will's departure to California as a victory over his psychological demons, it drastically oversimplifies ... somethingsomething"
+- existing analysis is Good, but too much of it-- like 10 pages worth

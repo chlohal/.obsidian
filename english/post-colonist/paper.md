@@ -1,0 +1,3 @@
+A post-colonial interpretation of a text is based on how it treats the relationship between Western colonizers and (usually African) colonials. Although many texts tell stories set after the age of colonies, they may still have colonial roots: the film Columbite Tantalite is an example in a modern setting. The perspective of a post-colonial text is imperative: if a reader is unable to understand the story, they are unable to learn from it or engage with it critically. Columbite Tantalite and Things Fall Apart both tell stories about African colonism, but while Columbite Tantalite prioritizes reaching Western viewers, Things Fall Apart keeps the Western perspective secondary.
+
+Columbite Tantalite is 
