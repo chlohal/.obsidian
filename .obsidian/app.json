@@ -1,9 +1,0 @@
-{
-  "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "1",
-    "downscalePercent": 74
-  },
-  "promptDelete": false
-}
