@@ -300,9 +300,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/resume.md",
-                "mode": "source",
-                "source": false
+                "file": "media/books-backed-up-from-mom-throwing-away.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -360,7 +360,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "work/resume.md",
+                    "file": "media/books-backed-up-from-mom-throwing-away.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -377,7 +377,7 @@
         "direction": "horizontal",
         "width": 228.66123962402344
       },
-      "active": "b604b10cbac96163"
+      "active": "b4e23148c694d1dd"
     }
   },
   "active": "robotics"

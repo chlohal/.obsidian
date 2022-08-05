@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "work/resume.md",
-            "mode": "source",
-            "source": false
+            "file": "media/books-backed-up-from-mom-throwing-away.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/resume.md",
+                "file": "media/books-backed-up-from-mom-throwing-away.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +86,9 @@
     "direction": "horizontal",
     "width": 228.66123962402344
   },
-  "active": "b604b10cbac96163",
+  "active": "b4e23148c694d1dd",
   "lastOpenFiles": [
+    "work/resume.md",
     "Pasted image 20211018140723.png",
     "robotics/yog22-knowledge/software/people-to-ask-about-things/label-maker.md",
     "robotics/yog22-knowledge/software/people-to-ask-about-things/github-admin.md",
@@ -96,7 +97,6 @@
     "robotics/yog22-knowledge/software/processes/first-commit.md",
     "robotics/yog22-knowledge/software/processes/updating-ftc-sdk.md",
     "robotics/yog22-knowledge/software/processes/preparing-next-years-repository.md",
-    "robotics/yog22-knowledge/software/processes/handing-down-software-manager.md",
-    "robotics/yog22-knowledge/software/processes/preparing-or-upgrading-phones.md"
+    "robotics/yog22-knowledge/software/processes/handing-down-software-manager.md"
   ]
 }
