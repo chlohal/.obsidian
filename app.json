@@ -1,0 +1,12 @@
+{
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 74
+  },
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
+}

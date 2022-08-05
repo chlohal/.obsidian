@@ -1,4 +1,0 @@
-- wow
-- idk i feel like it definitely... shifted, today
-- the ending was abrupt
-- it felt like... idk, like, baldwin's voice was very strong throughout.

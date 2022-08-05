@@ -1,9 +1,0 @@
-4 $\int\limits_{-1}^{4} (5x - 2)^2 dx = 411.6666$
-6 $\int\limits_{1}^{4} 24x^{2/3} dx = 297.6$
-8 $\int\limits_{20}^{50} dx = 30$
-10 $\int\limits_{-3}^{0} (x^2 + 4x + 10) dx = -21$
-12 $\int\limits_{-3}^{3} \sqrt{2x+10} = 18.6666667$
-14 $\int\limits_{-\pi/2}^{\pi/2} 6 cos(x) = 0$
- 16 $\int\limits_{0}^{\pi/3} \sec(x)\tan(x) + \sin(x) dx = 1.5$
- 18 $\int\limits_{0}^{\ln(3)} e^{-x} dx = 4/3$
- 22 $\int\limits_{0}^{0.4} \sin(2x) dx = 0.848$

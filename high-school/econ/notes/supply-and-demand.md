@@ -1,1 +1,0 @@
-Supply = Demand: the **Market Equilibrium** -- where supply = demand. The happy place.
