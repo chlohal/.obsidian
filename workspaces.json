@@ -295,6 +295,7 @@
         "type": "split",
         "children": [
           {
+<<<<<<< HEAD
             "id": "4dd83c35cb5b0446",
             "type": "split",
             "children": [
@@ -336,6 +337,16 @@
                   "type": "terminal",
                   "state": {}
                 }
+=======
+            "id": "b4e23148c694d1dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "media/books-backed-up-from-mom-throwing-away.md",
+                "mode": "preview",
+                "source": true
+>>>>>>> 46fb4e14562fa3da8d6911056d4a4204483e5e82
               }
             ],
             "direction": "horizontal"
@@ -394,7 +405,11 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+<<<<<<< HEAD
                     "file": "classes/csci-103/Untitled.md",
+=======
+                    "file": "media/books-backed-up-from-mom-throwing-away.md",
+>>>>>>> 46fb4e14562fa3da8d6911056d4a4204483e5e82
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -412,7 +427,11 @@
         "width": 228.66123962402344,
         "collapsed": true
       },
+<<<<<<< HEAD
       "active": "2990f4bfd50bf5fb"
+=======
+      "active": "b4e23148c694d1dd"
+>>>>>>> 46fb4e14562fa3da8d6911056d4a4204483e5e82
     }
   },
   "active": "robotics"
