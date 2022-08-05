@@ -7,8 +7,12 @@
         "id": "b4e23148c694d1dd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "work/resume.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "work/resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,14 +79,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "900f20623be62f5a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -89,7 +86,7 @@
     "direction": "horizontal",
     "width": 228.66123962402344
   },
-  "active": "b4e23148c694d1dd",
+  "active": "b604b10cbac96163",
   "lastOpenFiles": [
     "Pasted image 20211018140723.png",
     "robotics/yog22-knowledge/software/people-to-ask-about-things/label-maker.md",
