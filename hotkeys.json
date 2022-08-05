@@ -148,5 +148,14 @@
       ],
       "key": "B"
     }
+  ],
+  "obsidian-terminal:open-obsidian-terminal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "`"
+    }
   ]
 }
