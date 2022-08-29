@@ -806,6 +806,7 @@ TQMo
 TRMk
 TMaV
 TtP
+Typescript
 Number
 NOT
 New
@@ -2277,6 +2278,7 @@ WkW
 WLlP
 WCc
 WQRy
+Work
 it
 in
 imperialism
@@ -6869,6 +6871,8 @@ CharSet
 Cursive
 Crito
 Ctx
+CHalverson
+Computing
 easy
 easiest
 encourage
@@ -7682,6 +7686,7 @@ exclam
 endash
 eLf
 excerpts
+edu
 the
 then
 third
@@ -11672,6 +11677,7 @@ semicolon
 sqmc
 scC
 stu
+site
 year
 yeah
 you
@@ -15613,6 +15619,8 @@ colon
 cRt
 ckT
 cGe
+clarku
+clh
 difference
 dynamic
 driver
@@ -17953,6 +17961,7 @@ hkn
 hyphen
 hwBP
 hEj
+hobby
 Hyenes
 He
 History
@@ -20232,6 +20241,7 @@ StemV
 StemH
 SqG
 SEZ
+Skills
 Ramatou
 Richer
 Region
@@ -24025,6 +24035,7 @@ MFOIOM
 MFPMNG
 MGAEOG
 MGBDMN
+MAU
 vs
 victimized
 view
@@ -27099,6 +27110,8 @@ BKs
 BoldCursive
 BeCY
 BDZ
+Beginner
+Built
 Party
 People
 Plugin
@@ -27859,6 +27872,8 @@ PVlYm
 PfJ
 PAP
 PZd
+Proficient
+Python
 It
 If
 Items
@@ -28583,6 +28598,8 @@ ItalicAngle
 IsID
 ITB
 INW
+Interests
+Intermediate
 Your
 You
 YM
@@ -32966,6 +32983,9 @@ EfC
 Encode
 Elll
 EnL
+Education
+Experience
+Expert
 Given
 Gg
 Gn
@@ -36494,6 +36514,7 @@ Vzk
 Vhi
 VeW
 VBn
+Volunteering
 xQm
 xQ
 xz
