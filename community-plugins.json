@@ -10,5 +10,8 @@
   "obsidian-wikipedia",
   "obsidian-git",
   "obsidian-terminal",
-  "obsidian-jupyter"
+  "obsidian-jupyter",
+  "snippet-commands-obsidian",
+  "obsidian-kanban",
+  "table-editor-obsidian"
 ]
