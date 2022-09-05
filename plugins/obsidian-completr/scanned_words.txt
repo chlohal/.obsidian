@@ -9770,6 +9770,9 @@ inadequate
 immodest
 innane
 incorrect
+inane
+impact
+illustrative
 for
 fair
 fall
@@ -12248,6 +12251,10 @@ feMC
 fKB
 friendanimadverto
 fine
+face
+factor
+fatal
+fallacy
 Option
 OAC
 One
@@ -14595,6 +14602,7 @@ Omnes
 OdW
 Okw
 Overall
+Obviously
 with
 while
 who
@@ -17236,6 +17244,7 @@ wherequam
 witn
 weakness
 wicked
+wrongdoings
 and
 again
 about
@@ -19698,6 +19707,9 @@ accomplishes
 assumption
 addition
 associates
+assumptions
+advantage
+airforce
 Columbite
 CT
 Contrasts
@@ -24613,6 +24625,7 @@ examination
 establishes
 equivalent
 entirely
+enrich
 the
 then
 third
@@ -27095,6 +27108,8 @@ tangental
 todo
 translation
 tags
+transgression
+trial
 option
 original
 ok
@@ -34358,6 +34373,8 @@ predicated
 posted
 paper
 phil
+punished
+precedent
 senior
 stories
 spent
@@ -37183,6 +37200,9 @@ sound
 statistical
 sep
 socratess
+strike
+steal
+share
 year
 yeah
 you
@@ -39651,6 +39671,7 @@ ycm
 yDhf
 yearappello
 youth
+youths
 Fall
 Functions
 Fixed
@@ -44684,6 +44705,7 @@ Against
 Arguments
 Athens
 Athenians
+Athenian
 both
 back
 bit
@@ -47103,6 +47125,8 @@ birdcirca
 believes
 belief
 breeding
+bring
+benefited
 comp
 compare
 contrast
@@ -49881,6 +49905,9 @@ corruptor
 credence
 csci
 creation
+court
+corrupted
+counter
 difference
 dynamic
 driver
@@ -54912,6 +54939,7 @@ lzt
 loudcfncfus
 least
 late
+logical
 how
 happen
 human
@@ -57244,6 +57272,7 @@ hDDDG
 hDFI
 horse
 horses
+heroic
 Hyenes
 He
 History
@@ -62147,6 +62176,8 @@ udJ
 uBxxF
 urV
 ueD
+unwilling
+urges
 Sese
 Save
 Stonefeller
@@ -74378,6 +74409,8 @@ gladiusuctus
 grouped
 goldaureus
 goldenaut
+glance
+goose
 May
 Multi
 Mj
@@ -84414,6 +84447,8 @@ responses
 rhetoric
 relies
 risk
+rely
+reflection
 Bank
 Business
 Baron

@@ -185,5 +185,14 @@
       ],
       "key": "D"
     }
+  ],
+  "obsidian-enhancing-export:obsidian-enhancing-export:export": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
   ]
 }
