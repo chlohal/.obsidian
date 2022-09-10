@@ -1,0 +1,36 @@
+{
+  "version": "0.2.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "todo/",
+              "displayTitle": "Todo"
+            },
+            {
+              "tag": "blocked/",
+              "displayTitle": "Blocked"
+            },
+            {
+              "tag": "doing/",
+              "displayTitle": "Doing"
+            }
+          ],
+          "completedCount": 10,
+          "filters": [],
+          "includeOthers": false,
+          "includeUntagged": true,
+          "title": "Kanban"
+        }
+      }
+    ],
+    "globalSettings": {
+      "hideCompletedSubtasks": false,
+      "ignorePaths": [],
+      "subTaskDisplayLimit": null
+    }
+  }
+}

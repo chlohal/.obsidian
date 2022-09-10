@@ -194,5 +194,22 @@
       ],
       "key": "J"
     }
+  ],
+  "card-board:open-card-board-plugin-0": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }
