@@ -37407,6 +37407,7 @@ servo
 superbus
 sustulit
 semel
+studying
 year
 yeah
 you
@@ -79770,6 +79771,7 @@ violates
 veneer
 verbs
 vultum
+vocab
 kill
 know
 keeps
