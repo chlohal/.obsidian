@@ -180,10 +180,9 @@
   "file-explorer:open": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
-      "key": "D"
+      "key": "E"
     }
   ],
   "obsidian-enhancing-export:obsidian-enhancing-export:export": [
@@ -211,5 +210,7 @@
       ],
       "key": "L"
     }
-  ]
+  ],
+  "templater-obsidian:insert-templater": [],
+  "templater-obsidian:jump-to-next-cursor-location": []
 }

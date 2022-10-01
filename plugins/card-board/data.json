@@ -7,15 +7,15 @@
         "data": {
           "columns": [
             {
-              "tag": "todo/",
+              "tag": "todo",
               "displayTitle": "Todo"
             },
             {
-              "tag": "blocked/",
+              "tag": "blocked",
               "displayTitle": "Blocked"
             },
             {
-              "tag": "doing/",
+              "tag": "doing",
               "displayTitle": "Doing"
             }
           ],
