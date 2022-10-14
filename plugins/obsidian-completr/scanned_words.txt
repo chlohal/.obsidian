@@ -2693,6 +2693,7 @@ TypeError
 Thingy
 Turns
 Transition
+Thessaly
 Number
 NOT
 New
@@ -5328,7 +5329,6 @@ Worksheet
 Winter
 Windows
 WILL
-WORK
 WTu
 Wg
 Wv
@@ -10690,6 +10690,7 @@ immortal
 impossible
 inconsistent
 illustrating
+inquiry
 for
 fair
 fall
@@ -13448,6 +13449,8 @@ forming
 forbes
 faith
 fuss
+friends
+frustrated
 Option
 OAC
 One
@@ -18872,6 +18875,9 @@ wider
 wellness
 weak
 women
+worry
+wealthy
+whitebread
 and
 again
 about
@@ -21628,6 +21634,12 @@ apologizes
 aggressive
 assent
 admonishing
+advance
+attacks
+attempts
+army
+alive
+affairs
 Columbite
 CT
 Contrasts
@@ -27103,6 +27115,11 @@ equitable
 entertaining
 explained
 expert
+esay
+essays
+elaboration
+enemies
+esteem
 the
 then
 third
@@ -29856,6 +29873,8 @@ trap
 throughout
 truthful
 trivial
+theorize
+tortured
 option
 original
 ok
@@ -32580,6 +32599,8 @@ offense
 offer
 oneself
 overly
+outlines
+offers
 not
 nature
 now
@@ -35195,6 +35216,7 @@ nunc
 noted
 notify
 notifications
+norm
 particularly
 parts
 power
@@ -37975,6 +37997,14 @@ priestesses
 poets
 principles
 political
+prepare
+preliminary
+print
+peace
+putting
+portraying
+patriarchal
+proposes
 senior
 stories
 spent
@@ -41111,6 +41141,8 @@ self
 searching
 semantics
 serves
+surprises
+summit
 year
 yeah
 you
@@ -43783,6 +43815,7 @@ yfH
 ybz
 youve
 yUDeq
+yourself
 Fall
 Functions
 Fixed
@@ -51903,6 +51936,7 @@ benign
 budding
 base
 bringing
+betrayed
 comp
 compare
 contrast
@@ -55005,6 +55039,12 @@ countering
 characterizing
 continuation
 claims
+culturally
+compares
+campaign
+commanders
+convinces
+cooperative
 difference
 dynamic
 driver
@@ -57788,6 +57828,9 @@ dialogues
 disprove
 disproves
 dismissed
+drafts
+dialog
+desiring
 ll
 like
 level
@@ -63169,6 +63212,10 @@ hedonists
 handicap
 hearsay
 hadn
+historian
+horrible
+helping
+hurting
 Hyenes
 He
 History
@@ -65655,6 +65702,7 @@ Hcyp
 HBX
 HBQ
 Hedonism
+Having
 using
 units
 uses
@@ -79147,6 +79195,10 @@ maps
 memorize
 meaningful
 malicious
+midterm
+medicine
+military
+morality
 game
 gained
 get
@@ -92896,6 +92948,8 @@ reflected
 recollection
 reminding
 reliance
+ruling
+rejects
 Bank
 Business
 Baron
@@ -97973,6 +98027,9 @@ Pastry
 Path
 Pleasure
 PETCARE
+Prof
+Persia
+Persians
 It
 If
 Items
@@ -111032,6 +111089,8 @@ qualified
 qualitative
 qualification
 questioning
+quote
+quotes
 just
 je
 jshoist
@@ -113702,6 +113761,7 @@ judgement
 judges
 jurors
 jATigJ
+justly
 Example
 EQ
 EO
@@ -116351,6 +116411,8 @@ ELeoO
 Earth
 Evaluated
 Epic
+Euphyro
+Everyone
 Given
 Gg
 Gn
@@ -118911,6 +118973,7 @@ Guess
 Gymnastics
 Gamification
 Guides
+Greeks
 Zm
 ZK
 Zz
@@ -124100,6 +124163,7 @@ XpS
 XVD
 Xdf
 Xnc
+Xenophon
 zmL
 zY
 ze
@@ -129404,6 +129468,7 @@ VtO
 VtTTqH
 VMk
 VTYoa
+Virtue
 xQm
 xQ
 xz
@@ -136998,6 +137063,7 @@ JQIE
 Jwjm
 JEeI
 Joe
+January
 Kx
 KH
 KS
