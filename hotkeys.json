@@ -212,5 +212,15 @@
     }
   ],
   "templater-obsidian:insert-templater": [],
-  "templater-obsidian:jump-to-next-cursor-location": []
+  "templater-obsidian:jump-to-next-cursor-location": [],
+  "editor:insert-embed": [],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": []
 }

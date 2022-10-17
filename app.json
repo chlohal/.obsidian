@@ -9,5 +9,6 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "livePreview": false
+  "livePreview": false,
+  "showInlineTitle": false
 }
