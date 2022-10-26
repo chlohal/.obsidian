@@ -10,5 +10,6 @@
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "livePreview": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "foldIndent": true
 }
