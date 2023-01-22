@@ -3,13 +3,17 @@
   "maxLookBackDistance": 50,
   "minWordLength": 2,
   "minWordTriggerLength": 3,
-  "insertionKey": "Enter",
   "wordInsertionMode": "Ignore-Case & Append",
-  "latexProviderEnabled": true,
+  "ignoreDiacriticsWhenFiltering": false,
+  "latexProviderEnabled": false,
   "latexTriggerInCodeBlocks": true,
+  "latexMinWordTriggerLength": 2,
+  "latexIgnoreCase": false,
   "fileScannerProviderEnabled": true,
   "fileScannerScanCurrent": true,
   "wordListProviderEnabled": true,
   "frontMatterProviderEnabled": true,
-  "frontMatterTagAppendSuffix": true
+  "frontMatterTagAppendSuffix": true,
+  "frontMatterIgnoreCase": true,
+  "insertionKey": "Enter"
 }
