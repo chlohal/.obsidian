@@ -12,7 +12,7 @@
   "fileScannerProviderEnabled": true,
   "fileScannerScanCurrent": true,
   "wordListProviderEnabled": true,
-  "frontMatterProviderEnabled": true,
+  "frontMatterProviderEnabled": false,
   "frontMatterTagAppendSuffix": true,
   "frontMatterIgnoreCase": true,
   "insertionKey": "Enter"
