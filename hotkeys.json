@@ -66,13 +66,6 @@
         "Mod"
       ],
       "key": "K"
-    },
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "K"
     }
   ],
   "highlightr-plugin:highlighter-plugin-menu": [
@@ -230,6 +223,23 @@
         "Shift"
       ],
       "key": "U"
+    }
+  ],
+  "obsidian-comments:add-comment": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "obsidian-comments:show-comments-panel": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
     }
   ]
 }
